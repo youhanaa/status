@@ -23,7 +23,7 @@ client.on('ready', async () => {
   console.log(`${client.user.tag} - rich presence started!`);
 
   const r = new Discord.RichPresence()
-    .setApplicationId('1125479277421404310')
+    .setApplicationId('1201205173083705475')
     .setType('STREAMING')
     .setURL('https://bit.ly/RK-Community') //Must be a youtube video link 
     .setState('SRO [RK-Community]')
