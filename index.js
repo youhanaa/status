@@ -30,11 +30,10 @@ client.on('ready', async () => {
     .setName('SRO [RK-Community]')
     .setDetails(`Community For Sro Games`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1191538536378277908/1201089611502469160/rk_gif.gif?ex=65e43c5e&is=65d1c75e&hm=ca8332f9ef0f80472c7c18885c099ea4a04561c0b5c8b128fe802bf998720506&=&width=350&height=350') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1191538536378277908/1201089611502469160/rk_gif.gif?ex=65ffebde&is=65ed76de&hm=938b57217bc191de03d7863c1fb867eaec24c1d637586d5a1dd2e6c7693a6123&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Community For Sro Games') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1077716803435909232/1169543166999937024/Verification.png?ex=65e970f4&is=65d6fbf4&hm=3bc2e95305242abb9776c2e72f6d4a4c9a79bdef65cbfe99f5647d4f86ba027e&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1077716803435909232/1169543166999937024/Verification.png?ex=66052074&is=65f2ab74&hm=67a0cb0bb7296b43648c75f51798342fdab042bded588110a2f7c86df7c4fc30&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('SRO [RK-Community]') //Text when you hover the Small image
-    .addButton('Community', 'https://discord.gg/YTQN84kRWU')
     .addButton('RK-Community', 'https://discord.gg/YTQN84kRWU');
 
   client.user.setActivity(r);
