@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('SRO [RK-Community]')
     .setDetails(`Community For Sro Games`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1189739975663697971/1226270558761652386/image.png?ex=662622b4&is=6624d134&hm=753ed6cf7f88b131c9a4b611fe41ce1307df54679d628f11fe6fb147f13d57b3&=&format=webp&quality=lossless&width=671&height=671') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://images-ext-1.discordapp.net/external/r9brO0T087XO2be2ANYdxt7cp6ka5LU07wTm9SMwTms/%3Fsize%3D1024/https/cdn.discordapp.com/icons/1099998225743757396/6632c6c7adf6a90a424efcdd28d601d0.png?format=webp&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Community For Sro Games') //Text when you hover the Large image
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/789468512288112690.gif?size=44&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('SRO [RK-Community]') //Text when you hover the Small image
